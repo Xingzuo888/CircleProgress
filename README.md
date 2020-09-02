@@ -1,7 +1,7 @@
 # CircleProgress
 ##### 环形进度条显示效果图
 
-![显示内圆](https://images.gitee.com/uploads/images/2020/0902/143459_60d25077_5290883.png "inner_circle.png)
+![显示内圆](https://images.gitee.com/uploads/images/2020/0902/143459_60d25077_5290883.png "inner_circle.png")
 
 显示内圆
 
