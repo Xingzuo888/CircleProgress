@@ -46,7 +46,7 @@ allprojects {
 
 ```
 dependencies {
-	        implementation 'com.github.Xingzuo888:CircleProgress:Tag'
+	        implementation 'com.github.Xingzuo888:CircleProgress:v1.0'
 	}
 ```
 
