@@ -1,13 +1,13 @@
 # CircleProgress
 ##### 环形进度条显示效果图
 
-![显示内圆](image\inner_circle.png)
+![显示内圆](https://github.com/Xingzuo888/CircleProgress/tree/master/image/inner_circle.png)
 
 显示内圆
 
 
 
-![显示外环](image\out_ring.png)
+![显示外环](https://github.com/Xingzuo888/CircleProgress/tree/master/image/out_ring.png)
 
 
 
@@ -15,7 +15,7 @@
 
 
 
-![显示进度条颜色渐变及动态进度](image\progress_gradient.gif)
+![显示进度条颜色渐变及动态进度](https://github.com/Xingzuo888/CircleProgress/tree/master/image/progress_gradient.gif)
 
 
 
